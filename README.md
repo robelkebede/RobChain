@@ -1,2 +1,2 @@
 # RobChain
-This is a simple BlockChain in python 3 and Flask.
+This is a simple BlockChain implementaion in python 3 and Flask.
